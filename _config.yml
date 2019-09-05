@@ -1,11 +1,11 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: FounderFlirt
+author: Lasse Schuirmann
+email: lasse@viperdev.io
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  FounderFlirt helps connecting
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: viperdev_io
+github_username:  viper-development
 
 sass:
     style: compressed

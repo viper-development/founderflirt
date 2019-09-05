@@ -2,4 +2,4 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+FounderFlirt helps you find cofounders for your idea in a jiffy.
