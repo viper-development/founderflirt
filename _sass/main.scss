@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+$primary-color: #510366 !default;
+$primary-color-light: lighten($primary-color, 15%) !default;
+$primary-color-dark: darken($primary-color, 15%) !default;
+
 h1, h2, h3, h4, h5, h6 {
     -webkit-font-smoothing: antialiased;
 }
@@ -9,6 +13,15 @@ h1, h2, h3, h4, h5, h6 {
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+.primary {
+  color: $primary-color;
+}
+
+.bg-primary {
+  background-color: $primary-color;
+}
+
 .shadow-demo {
     background-color: #26a69a;
     width: 100px;
@@ -19,7 +32,7 @@ h1.page-title {
     font-weight: 500;
     font-size: 2.3em;
     text-align: center;
-    color: #29b6f6;
+    color: #510366;
 }
 .col.grid-example {
     border: 1px solid #eee;
@@ -54,7 +67,7 @@ h1.page-title {
     text-align: center;
 }
 .post-header h1.post-title {
-    color: #29b6f6;
+    color: #510366;
     font-size: 2.8em;
     font-weight: 800;
 }
