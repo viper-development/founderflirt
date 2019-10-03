@@ -2,4 +2,4 @@
 layout: home
 ---
 
-FounderFlirt helps you find cofounders for your idea in a jiffy.
+FounderFlirt - find cofounders or startups with one swipe.
